@@ -7,5 +7,5 @@
 ferramenta para analise de força de senhas.
 """
 
-improt re
-improt sys
+import re
+import sys
